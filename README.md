@@ -2,3 +2,4 @@
 
 ### raw fabric images with masks in red (255, 0, 0) 
 
+Please consider citing our paper "One-Class Model For Defect Detection"
