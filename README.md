@@ -5,8 +5,8 @@
 
 
 ### A. Installation
-1. clone this project at **git clone https://yourUserID@bitbucket.org/hzhou3/fabric_ae2.git**
-2. **cd fabric_ae2 && pip3 install -r requirements.txt**
+1. git clone ***
+2. **cd one-class-dataset/ && pip3 install -r requirements.txt**
 
 	(Note that the versions of some packages (e.g., torchvision or torch) may need to be matched. Google one matched pair if errors occur).
 
