@@ -86,7 +86,6 @@ raw fabric images with masks in red (255, 0, 0)
 ### If you use this dataset, please consider citing our papers 
 
 ```
-
 @inproceedings{zhou2020exploring,
   title={Exploring faster RCNN for fabric defect detection},
   author={Zhou, Hao and Jang, Byunghyun and Chen, Yixin and Troendle, David},
@@ -95,16 +94,13 @@ raw fabric images with masks in red (255, 0, 0)
   year={2020},
   organization={IEEE},
 }
+
 @article{zhou2022one,
   title={One-Class Model for Fabric Defect Detection},
   author={Zhou, Hao and Chen, Yixin and Troendle, David and Jang, Byunghyun},
   journal={arXiv preprint arXiv:2204.09648},
   year={2022}
 }
-
-
-
-
 ```
 
 
